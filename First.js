@@ -1,0 +1,11 @@
+var a = 5;
+var b = 10;
+var c = "I am a student";
+a = a + 1;
+b = b + 5;
+c = c + " String";
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(" Hello Rohit pandey Now you are started javascript");
+console.log("Here your journery");
